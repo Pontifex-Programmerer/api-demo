@@ -1,0 +1,13 @@
+{
+  "name": "book-api-backend",
+  "version": "1.0.0",
+  "description": "Backend API for book library",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
