@@ -1,3 +1,7 @@
+html {
+    overflow-y: scroll; /* stable scrollbar: avoid horizontal shift when pages differ in height */
+}
+
 :root {
     --max-width: 1200px;
     --font-family: Arial, sans-serif;
